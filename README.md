@@ -3,7 +3,7 @@
 ## The script configures simultaneous AP and Managed Mode Wifi on Raspberry Pi
 
 ## Tested on:
-    - Raspberry Pi Zero W 
+    - Raspberry Pi Zero W
     - Raspberry Pi 3 B+
     - Raspberry Pi 3 A+
 
@@ -48,7 +48,7 @@
 
 ## Usage
 ```bash
-curl https://raw.githubusercontent.com/MkLHX/AP_STA_RPI_SAME_WIFI_CHIP/master/ap_sta_config.sh | sudo bash -s -- --ap ap_ssid ap_passphrases --client client_ssid client_passphrase --country FR
+curl https://raw.githubusercontent.com/MikeDWheeler/AP_STA_RPI_SAME_WIFI_CHIP/master/ap_sta_config.sh | sudo bash -s -- --ap VANNETWORK 0times0equals0 --client WHEELER WHEELER1011 --country US
 
 ```
 
