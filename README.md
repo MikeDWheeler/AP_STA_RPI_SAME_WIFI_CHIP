@@ -48,7 +48,7 @@
 
 ## Usage
 ```bash
-curl https://raw.githubusercontent.com/MikeDWheeler/AP_STA_RPI_SAME_WIFI_CHIP/master/ap_sta_config.sh | sudo bash -s -- --ap VANNETWORK 0times0equals0 --client WHEELER WHEELER1011 --country US
+curl https://raw.githubusercontent.com/MikeDWheeler/AP_STA_RPI_SAME_WIFI_CHIP/master/ap_sta_config.sh | sudo bash -s -- --ap ap_name ap_password --client connection connection_password --country US
 
 ```
 
